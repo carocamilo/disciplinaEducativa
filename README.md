@@ -1,4 +1,4 @@
-# disciplinaEducativa
+# DisciplinaEducativa
 Proyecto institucional que formará en un principio un Observador digital por medio de HTML, conceptos de CSS & JavaScript.
 # ¿De que trata el proyecto DisciplinaEducativa?
 Nuestro proyecto es algo complejo, algo completamente innovador para nuestra institución, teniendo presente de que es un sistema nueva para la página web del colegio & que haremos un impacto positivo para el medio ambiente, ya que dejaremos de usar hojas para el uso del observador.
