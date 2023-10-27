@@ -7,7 +7,7 @@ Nuestro proyecto es algo complejo, algo completamente innovador para nuestra ins
 - Simón Posada Montoya (1020421819). Estudiante de Técnico Laboral Auxiliar en Desarrollo de Software. Institución Universitaria Pascual Bravo.
 - Ailyn Mariana Chaverra (1034919881). Estudiante de Técnico Laboral Auxiliar en Desarrollo de Software. Institución Universitaria Pascual Bravo.
 - Mariana Acevedo Gañan (1035973358). Estudiante de Técnico Laboral Auxiliar en Desarrollo de Software. Institución Universitaria Pascual Bravo.
-#Datos
+# Datos
 Los datos del proyecto provienen de...
 Marvel App: Marvel App es una plataforma de diseño y prototipado de aplicaciones y sitios web. Se utiliza para crear prototipos interactivos que permiten a los diseñadores y desarrolladores probar la funcionalidad y la experiencia del usuario antes de comenzar la programación.
 
